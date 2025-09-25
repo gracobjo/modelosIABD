@@ -6,12 +6,12 @@
 
 ### 🎯 Enlaces Rápidos
 
-1. **[Introducción](#introducción)** - Visión general de Amazon y IA
-2. **[Casos de Uso](#casos-de-uso)** - Principales aplicaciones de IA en Amazon
-3. **[Logística y Optimización](#logística)** - Algoritmos de routing y optimización
-4. **[Objetivos de Negocio](#objetivos)** - Estrategia empresarial de Amazon
-5. **[Ejemplo Práctico](#ejemplo)** - Sistema de recomendaciones con código
-6. **[Conclusiones](#conclusiones)** - Lecciones clave y futuro
+1. **[Introducción](#-introducción)** - Visión general de Amazon y IA
+2. **[Casos de Uso](#-casos-de-uso-principales-de-ia-en-amazon)** - Principales aplicaciones de IA en Amazon
+3. **[Logística y Optimización](#-logística-y-optimización)** - Algoritmos de routing y optimización
+4. **[Objetivos de Negocio](#-objetivos-de-negocio)** - Estrategia empresarial de Amazon
+5. **[Ejemplo Práctico](#-ejemplo-práctico-sistema-de-recomendaciones)** - Sistema de recomendaciones con código
+6. **[Conclusiones](#-conclusiones)** - Lecciones clave y futuro
 
 ---
 
@@ -41,7 +41,7 @@ Este repositorio contiene el notebook **`Amazon_IA_Charla.ipynb`** que explora c
 
 ---
 
-## 🎯 Introducción {#introducción}
+## 🎯 Introducción
 
 Amazon ha revolucionado el comercio electrónico y la logística mundial mediante el uso estratégico de **Inteligencia Artificial** y **Machine Learning**. Esta presentación explora cómo Amazon ha convertido la IA en su ventaja competitiva fundamental.
 
@@ -54,7 +54,7 @@ Amazon ha revolucionado el comercio electrónico y la logística mundial mediant
 
 ---
 
-## 🔧 Casos de Uso Principales de IA en Amazon {#casos-de-uso}
+## 🔧 Casos de Uso Principales de IA en Amazon
 
 ### 1. Recomendaciones Personalizadas
 
@@ -98,7 +98,7 @@ Amazon ha revolucionado el comercio electrónico y la logística mundial mediant
 
 ---
 
-## 🚚 Logística y Optimización {#logística}
+## 🚚 Logística y Optimización
 
 Amazon ha convertido su logística en una ventaja competitiva fundamental gracias a un uso intensivo y muy sofisticado de **Machine Learning** y algoritmos de optimización.
 
@@ -142,7 +142,7 @@ Los algoritmos de ML de Amazon encuentran soluciones "óptimas" o "suficientemen
 
 ---
 
-## 🎯 Objetivos de Negocio {#objetivos}
+## 🎯 Objetivos de Negocio
 
 Los objetivos de negocio de Amazon con la IA son multifacéticos y están extraordinariamente alineados. No es un solo objetivo, sino una pirámide de objetivos interconectados que se refuerzan mutuamente.
 
@@ -171,7 +171,7 @@ Todo lo que hace Amazon, incluida su inversión masiva en IA, gira en torno a es
 
 ---
 
-## 💻 Ejemplo Práctico: Sistema de Recomendaciones {#ejemplo}
+## 💻 Ejemplo Práctico: Sistema de Recomendaciones
 
 Vamos a ver cómo funciona un sistema de recomendaciones básico usando embeddings, similar al que usa Amazon.
 
@@ -193,7 +193,7 @@ El notebook incluye:
 
 ---
 
-## 🎓 Conclusiones {#conclusiones}
+## 🎓 Conclusiones
 
 ### Lecciones Clave de Amazon
 
