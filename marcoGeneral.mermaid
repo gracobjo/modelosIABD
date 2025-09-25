@@ -1,0 +1,8 @@
+flowchart TD
+    A[Objetivo de Negocio<br>e.g., “Reducir tiempos de entrega”] --> B(Problema de IA<br>e.g., “Optimizar ruta de última milla”)
+    B --> C[Datos & Modelado<br>e.g., Historial de tráfico, ML]
+    C --> D[Implementación<br>e.g., Algoritmo en app Amazon Flex]
+    D --> E{¿Resultado alineado<br>con el negocio?}
+    E -- Sí --> F[Valor entregado<br>Cliente satisfecho, costo reducido]
+    E -- No --> A
+    F --> A

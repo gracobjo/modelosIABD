@@ -1,0 +1,12 @@
+flowchart TD
+    A[Pedido realizado<br>por cliente] --> B{¿Dónde está el producto?}
+
+    B -- Producto cercano<br>Predicción acertada --> C[Centro de Distribución Local]
+    B -- Producto lejano --> D[Centro de Distribución Lejano]
+
+    C --> E[Optimización de Ruta<br>Última Milla]
+    D --> F[Envío a través de la red<br>Centro de Clasificación] --> E
+
+    E -- Modelo de predicción<br>de tiempo de entrega --> G[Entrega Rápida<br>1-2 días o same-day]
+    
+    H[ML Estratégico<br>Ubicación de Centros &<br>Colocación de Inventario] --> B
